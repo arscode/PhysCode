@@ -45,6 +45,7 @@ int main(void){
 
 	printf("\n---------------------------------------\n");
 
+	/* here the sorting happens: Bubble sort function call*/
 	bubbleSort(arr, NOE);
 
 	printf("*Sorted List(Ascending order):\n");
